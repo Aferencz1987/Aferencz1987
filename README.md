@@ -31,6 +31,22 @@ I am a very progressive veteran at the beginning of my career in backend develop
 
 </section>
 
+## Projects
+
+<section>
+  <div>
+      <a href="https://github.com/Aferencz1987/Sweater_Weather">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aferencz1987&repo=sweater_weather&theme=tokyonight" align="center" height="200" width="400" /> 
+      </a>
+      <a href="https://github.com/date-em-rate-em/date-em-rate-em-be">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=date-em-rate-em&organization=date-em-rate-em&repo=date-em-rate-em-be&theme=tokyonight" align="center" height="200" width="400" />
+      <a href="https://github.com/Aferencz1987/rails-engine">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aferencz1987&repo=rails-engine&theme=tokyonight" align="center" height="200" width="400" />
+      </a>
+      <a href="https://github.com/JoePeterson51/adopt_dont_shop">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aferencz1987&repo=adopt_dont_shop&theme=tokyonight" align="center" height="200" width="400" />
+  </div>
+</section>
 
 <!--
 **Aferencz1987/Aferencz1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
