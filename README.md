@@ -1,4 +1,4 @@
-# Hi there I'm Alex Ferencz (she/her) 👋
+# Hi there, I'm Alex Ferencz (she/her) 👋
 
 I am a very progressive veteran at the beginning of my career in backend development. I'm looking to make small changes with ripple effects in tech. I enjoy working a part of a team with a good mission. 
 
@@ -15,6 +15,22 @@ I am a very progressive veteran at the beginning of my career in backend develop
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aferencz1987&count_private=true&show_icons=true&theme=tokyonight)
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aferencz1987&layout=compact&theme=tokyonight)
+
+
+## Tech
+<section align="left">
+
+  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=plastic&logo=ruby)
+  ![Rails](https://img.shields.io/badge/-Rails-CC0000?style=plastic&logo=ruby-on-rails)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=plastic&logo=heroku)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=plastic&logo=postgresql)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+  ![GraphQL](https://badgen.net/badge/icon/graphql?icon=graphql&label)
+
+</section>
+
 
 <!--
 **Aferencz1987/Aferencz1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
