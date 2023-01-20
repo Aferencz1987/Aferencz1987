@@ -1,6 +1,6 @@
 # Hi there, I'm Alex Ferencz (she/her) 👋
 
-I am a very progressive veteran at the beginning of my career in backend development. I'm looking to make small changes with ripple effects in tech. I enjoy working a part of a team with a good mission. 
+I am a very progressive veteran chugging along in my career development. I'm looking to make small changes with ripple effects in tech. I enjoy working a part of a team with a good mission. I have an eye towards accessibility and making sure tech is useful for all.
 
 ## Connect With Me
 
