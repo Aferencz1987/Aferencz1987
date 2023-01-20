@@ -22,6 +22,8 @@ I am a very progressive veteran at the beginning of my career in backend develop
 
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=plastic&logo=ruby)
   ![Rails](https://img.shields.io/badge/-Rails-CC0000?style=plastic&logo=ruby-on-rails)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=plastic&logo=heroku)
