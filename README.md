@@ -10,12 +10,6 @@ I am a very progressive veteran chugging along in my career development. I'm loo
   <a href="https://www.linkedin.com/in/alex-ferencz/"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a> 
 </section>
 
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aferencz1987&count_private=true&show_icons=true&theme=tokyonight)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aferencz1987&layout=compact&theme=tokyonight)
-
 
 ## Tech
 <section align="left">
